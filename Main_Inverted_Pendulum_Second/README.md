@@ -13,6 +13,3 @@ This example extends the Min-Max DDP formulation by incorporating a terminal cos
 1. Open MATLAB
 2. Navigate to this folder
 3. Run `main_minimax_inverted_pen.m`
-
-## 🔗 Related Paper
-**Mohammad Sarbaz**, Wei Sun. *Continuous Time Differential Dynamic Programming for Nonzero-Sum Differential Games.* Journal of Optimization Theory and Applications, 2026. [DOI](https://doi.org/10.1007/s10957-026-02984-6)
